@@ -1,6 +1,8 @@
-package com.lorivalsouza.workshopmongo.domain;
+package com.lorivalsouza.workshopmongo.dto;
 
 import java.io.Serializable;
+
+import com.lorivalsouza.workshopmongo.domain.User;
 
 public class AuthorDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
